@@ -1,5 +1,7 @@
 " File: .vimrc
-" Author: Alireza Omidi <aomidi@acm.org>
+" Author: Jake Zimmerman <jake@zimmerman.io>
+"
+" How I configure Vim :P
 "
 
 " Gotta be first
